@@ -1,0 +1,10 @@
+C:\Users\Karlos\source\repos\NoHitMod\bin\Debug\NoHitMod\NoHitMod.deps.json
+C:\Users\Karlos\source\repos\NoHitMod\bin\Debug\NoHitMod\NoHitMod.dll
+C:\Users\Karlos\source\repos\NoHitMod\bin\Debug\NoHitMod\NoHitMod.pdb
+C:\Users\Karlos\source\repos\NoHitMod\NoHitMod\obj\Debug\NoHitMod.csproj.AssemblyReference.cache
+C:\Users\Karlos\source\repos\NoHitMod\NoHitMod\obj\Debug\NoHitMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karlos\source\repos\NoHitMod\NoHitMod\obj\Debug\NoHitMod.AssemblyInfoInputs.cache
+C:\Users\Karlos\source\repos\NoHitMod\NoHitMod\obj\Debug\NoHitMod.AssemblyInfo.cs
+C:\Users\Karlos\source\repos\NoHitMod\NoHitMod\obj\Debug\NoHitMod.csproj.CoreCompileInputs.cache
+C:\Users\Karlos\source\repos\NoHitMod\NoHitMod\obj\Debug\NoHitMod.dll
+C:\Users\Karlos\source\repos\NoHitMod\NoHitMod\obj\Debug\NoHitMod.pdb

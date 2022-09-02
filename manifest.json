@@ -1,0 +1,10 @@
+{
+  "namespace": "xhayper",
+  "name": "COTL_API",
+  "description": "A BepInEx plugin made for modder to easily interact with Cult of the Lamb game",
+  "version_number": "0.1.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_CultOfTheLamb-5.4.21"
+  ],
+  "website_url": "https://github.com/xhayper/COTL_API"
+}
