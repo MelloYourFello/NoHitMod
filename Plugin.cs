@@ -7,7 +7,6 @@ using static InventoryItem;
 namespace NoHitMod
 {
     [BepInPlugin(PluginGuid, PluginName, PluginVer)]
-    [BepInDependency("io.github.xhayper.COTL_API")]
     [HarmonyPatch]
     public class Plugin : BaseUnityPlugin
     {
